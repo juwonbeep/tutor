@@ -1,0 +1,45 @@
+l10n: Configured to vscode-local:/Users/juwon/.vscode/extensions/ms-ceintl.vscode-language-pack-ko-1.83.2023101109/translations/extensions/vscode.html-language-features.i18n.json
+[Error - 10:36:36 AM] Error while computing completions for file:///home/wonofakind02/mywebsite/templates/article/subject.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1289620)
+    at V (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810785)
+    at j.computeCompletions (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810062)
+    at Y.doComplete2 (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:811575)
+    at doComplete (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1386724)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372801
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at process.processImmediate (node:internal/timers:447:9)
+[Error - 10:36:37 AM] Error while computing completions for file:///home/wonofakind02/mywebsite/templates/article/subject.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1289620)
+    at V (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810785)
+    at j.computeCompletions (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810062)
+    at Y.doComplete2 (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:811575)
+    at doComplete (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1386724)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372801
+[Error - 10:36:38 AM] Error while computing completions for file:///home/wonofakind02/mywebsite/templates/article/subject.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1289620)
+    at V (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810785)
+    at j.computeCompletions (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810062)
+    at Y.doComplete2 (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:811575)
+    at doComplete (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1386724)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372801
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at process.processImmediate (node:internal/timers:447:9)
+[Error - 10:36:40 AM] Error while computing completions for file:///home/wonofakind02/mywebsite/templates/article/subject.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1289620)
+    at V (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810785)
+    at j.computeCompletions (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810062)
+    at Y.doComplete2 (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:811575)
+    at doComplete (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1386724)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372801
+[Error - 10:36:41 AM] Error while computing completions for file:///home/wonofakind02/mywebsite/templates/article/subject.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1289620)
+    at V (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810785)
+    at j.computeCompletions (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810062)
+    at Y.doComplete2 (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:811575)
+    at doComplete (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1386724)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372801

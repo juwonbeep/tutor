@@ -1,0 +1,36 @@
+2024-12-20 03:22:56.072 [info] Extension host with pid 1985 started
+2024-12-20 03:22:56.120 [info] Lock '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock': Lock acquired.
+2024-12-20 03:22:56.370 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-12-20 03:22:56.381 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-12-20 03:22:56.382 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-20 03:22:57.384 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-20 03:22:57.648 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'onView:liveshare.session'
+2024-12-20 03:22:59.076 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-20 03:22:59.078 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-20 03:23:00.022 [info] Eager extensions activated
+2024-12-20 03:23:00.023 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-20 03:23:00.024 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-20 03:23:00.024 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-12-20 03:25:32.091 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-12-20 03:29:25.732 [error] Error: Sign in cancelled
+	at GitHubAuthTokenProvider.cancelSignIn (/home/wonofakind02/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5941/extension.js:1:245180)
+	at GitHubAuthTokenProvider.<anonymous> (/home/wonofakind02/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5941/extension.js:1:243312)
+	at Generator.throw (<anonymous>)
+	at rejected (/home/wonofakind02/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5941/extension.js:1:241157)
+2024-12-20 03:36:02.686 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-12-20 03:36:02.686 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-12-20 03:36:03.968 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-12-20 04:14:16.447 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-20 04:14:16.447 [error] undefined
+2024-12-20 04:15:21.471 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-20 04:15:21.471 [error] undefined
+2024-12-20 04:15:23.140 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-20 04:15:23.140 [error] undefined
+2024-12-20 04:15:23.365 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-20 04:15:23.365 [error] undefined
+2024-12-20 04:30:04.470 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-20 04:30:04.471 [error] undefined
+2024-12-20 04:30:04.490 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-20 04:30:04.490 [error] undefined
+2024-12-20 04:30:04.498 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-20 04:30:04.498 [error] undefined

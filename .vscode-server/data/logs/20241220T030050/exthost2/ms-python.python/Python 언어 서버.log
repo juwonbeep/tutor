@@ -1,0 +1,17 @@
+2024-12-20 03:07:24.595 [info] (Client) Pylance async client (2024.3.2) started with python extension (2024.2.1)
+2024-12-20 03:07:25.439 [info] [Info  - 3:07:25 AM] (1481) Pylance language server 2024.3.2 (pyright version 1.1.351, commit 87171fbf) starting
+2024-12-20 03:07:25.441 [info] [Info  - 3:07:25 AM] (1481) Server root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-12-20 03:07:25.441 [info] [Info  - 3:07:25 AM] (1481) Starting service instance "wonofakind02"
+2024-12-20 03:07:25.593 [info] [Info  - 3:07:25 AM] (1481) Setting pythonPath for service "wonofakind02": "/bin/python3"
+2024-12-20 03:07:25.595 [info] [Info  - 3:07:25 AM] (1481) Setting environmentName for service "wonofakind02": "3.8.10 (글로벌)"
+2024-12-20 03:07:25.667 [info] [Info  - 3:07:25 AM] (1481) Assuming Python version 3.8
+2024-12-20 03:07:25.827 [info] [Info  - 3:07:25 AM] (1481) Found 34 source files
+2024-12-20 03:07:27.961 [info] [Info  - 3:07:27 AM] (1481) Background analysis(1) root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-12-20 03:07:27.961 [info] [Info  - 3:07:27 AM] (1481) Background analysis(1) started
+2024-12-20 03:07:28.857 [info] [Info  - 3:07:28 AM] (1481) Indexer background runner(2) root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist (index)
+2024-12-20 03:07:28.857 [info] [Info  - 3:07:28 AM] (1481) Indexing(2) started
+2024-12-20 03:07:31.891 [info] [Info  - 3:07:31 AM] (1481) [IDX(2)] Long operation: scan packages file:///home/wonofakind02 (3028ms)
+2024-12-20 03:07:31.891 [info] [Info  - 3:07:31 AM] (1481) scanned(2) 105 files over 1 exec env
+2024-12-20 03:07:33.366 [info] [Info  - 3:07:33 AM] (1481) indexed(2) 59 files over 1 exec env
+2024-12-20 03:07:33.538 [info] [Info  - 3:07:33 AM] (1481) Indexing finished(2).
+2024-12-20 03:22:43.956 [info] [Error - 3:22:43 AM] Server process exited with code 0.

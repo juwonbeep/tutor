@@ -1,0 +1,17 @@
+2024-11-29 15:05:27.170 [info] Extension host with pid 1234 started
+2024-11-29 15:05:27.250 [info] Lock '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock': Lock acquired.
+2024-11-29 15:05:27.482 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-29 15:05:27.484 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-11-29 15:05:27.485 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-11-29 15:05:27.485 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-11-29 15:05:29.471 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-29 15:05:29.841 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-11-29 15:05:30.694 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-29 15:05:30.694 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-29 15:05:31.429 [info] Eager extensions activated
+2024-11-29 15:05:31.429 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-29 15:05:31.430 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-29 15:05:31.431 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-11-30 09:47:57.885 [info] Extension host terminating: renderer disconnected for too long (1)
+2024-11-30 09:47:57.890 [info] Lock '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-11-30 09:48:02.941 [info] Extension host with pid 1234 exiting with code 0

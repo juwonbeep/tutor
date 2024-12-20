@@ -1,0 +1,17 @@
+2024-12-20 13:20:19.105 [info] 로그 수준: Info
+2024-12-20 13:20:19.105 [info] "git"에서 찾은 git 유효성을 검사하는 중
+2024-12-20 13:20:19.105 [info] "2.25.1"에서 git "git"을(를) 사용하는 중
+2024-12-20 13:20:19.105 [info] > git rev-parse --show-toplevel [131ms]
+2024-12-20 13:20:19.105 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:20:19.105 [info] > git rev-parse --show-toplevel [9ms]
+2024-12-20 13:20:19.105 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:20:19.109 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-20 13:20:19.109 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:20:19.121 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-20 13:20:19.121 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:20:19.132 [info] > git rev-parse --show-toplevel [4ms]
+2024-12-20 13:20:19.132 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:20:19.144 [info] > git rev-parse --show-toplevel [4ms]
+2024-12-20 13:20:19.144 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:20:19.154 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-20 13:20:19.154 [info] fatal: not a git repository (or any of the parent directories): .git

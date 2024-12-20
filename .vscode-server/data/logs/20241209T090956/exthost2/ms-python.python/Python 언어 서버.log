@@ -1,0 +1,18 @@
+2024-12-09 09:33:27.613 [info] (Client) Pylance async client (2024.3.2) started with python extension (2024.2.1)
+2024-12-09 09:33:28.369 [info] [Info  - 9:33:28 AM] (2181) Pylance language server 2024.3.2 (pyright version 1.1.351, commit 87171fbf) starting
+2024-12-09 09:33:28.370 [info] [Info  - 9:33:28 AM] (2181) Server root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-12-09 09:33:28.370 [info] [Info  - 9:33:28 AM] (2181) Starting service instance "wonofakind02"
+2024-12-09 09:33:28.481 [info] [Info  - 9:33:28 AM] (2181) Setting pythonPath for service "wonofakind02": "/bin/python3"
+2024-12-09 09:33:28.482 [info] [Info  - 9:33:28 AM] (2181) Setting environmentName for service "wonofakind02": "3.8.10 (글로벌)"
+2024-12-09 09:33:28.543 [info] [Info  - 9:33:28 AM] (2181) Assuming Python version 3.8
+2024-12-09 09:33:28.868 [info] [Info  - 9:33:28 AM] (2181) Found 34 source files
+2024-12-09 09:33:30.331 [info] [Info  - 9:33:30 AM] (2181) Background analysis(1) root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-12-09 09:33:30.337 [info] [Info  - 9:33:30 AM] (2181) Background analysis(1) started
+2024-12-09 09:33:31.478 [info] [Info  - 9:33:31 AM] (2181) Indexer background runner(2) root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist (index)
+2024-12-09 09:33:31.478 [info] [Info  - 9:33:31 AM] (2181) Indexing(2) started
+2024-12-09 09:33:34.146 [info] [Info  - 9:33:34 AM] (2181) [IDX(2)] Long operation: scan packages file:///home/wonofakind02 (2609ms)
+2024-12-09 09:33:34.147 [info] [Info  - 9:33:34 AM] (2181) scanned(2) 105 files over 1 exec env
+2024-12-09 09:33:34.422 [info] [Info  - 9:33:34 AM] (2181) [BG(1)] Long operation: checking: file:///home/wonofakind02/mywebsite/article/views.py (2487ms)
+2024-12-09 09:33:34.422 [info] [Info  - 9:33:34 AM] (2181) [BG(1)] Long operation: analyzing: file:///home/wonofakind02/mywebsite/article/views.py (3802ms)
+2024-12-09 09:33:35.814 [info] [Info  - 9:33:35 AM] (2181) indexed(2) 59 files over 1 exec env
+2024-12-09 09:33:35.945 [info] [Info  - 9:33:35 AM] (2181) Indexing finished(2).

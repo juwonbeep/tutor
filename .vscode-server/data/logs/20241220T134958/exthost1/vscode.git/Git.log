@@ -1,0 +1,75 @@
+2024-12-20 13:50:05.067 [info] 로그 수준: Info
+2024-12-20 13:50:05.067 [info] "git"에서 찾은 git 유효성을 검사하는 중
+2024-12-20 13:50:05.067 [info] "2.25.1"에서 git "git"을(를) 사용하는 중
+2024-12-20 13:50:05.067 [info] > git rev-parse --show-toplevel [146ms]
+2024-12-20 13:50:05.067 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:50:05.067 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-20 13:50:05.068 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:50:05.068 [info] > git rev-parse --show-toplevel [15ms]
+2024-12-20 13:50:05.068 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:50:05.068 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-20 13:50:05.068 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:50:05.070 [info] > git rev-parse --show-toplevel [19ms]
+2024-12-20 13:50:05.070 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:50:05.089 [info] > git rev-parse --show-toplevel [10ms]
+2024-12-20 13:50:05.089 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:50:05.103 [info] > git rev-parse --show-toplevel [7ms]
+2024-12-20 13:50:05.103 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:51:30.823 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-20 13:51:30.823 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:53:22.264 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-20 13:53:22.264 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:53:24.495 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-20 13:53:24.495 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:53:35.922 [info] > git rev-parse --show-toplevel [19ms]
+2024-12-20 13:53:35.923 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:53:36.735 [info] > git rev-parse --show-toplevel [10ms]
+2024-12-20 13:53:36.736 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:53:54.956 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-20 13:53:54.956 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:54:15.349 [info] > git rev-parse --show-toplevel [6ms]
+2024-12-20 13:54:15.350 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:54:17.215 [info] > git rev-parse --show-toplevel [12ms]
+2024-12-20 13:54:17.216 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:54:36.749 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-20 13:54:36.749 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:54:38.571 [info] > git rev-parse --show-toplevel [4ms]
+2024-12-20 13:54:38.571 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:54:41.268 [info] > git rev-parse --show-toplevel [8ms]
+2024-12-20 13:54:41.268 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:54:42.113 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-20 13:54:42.113 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:54:45.380 [info] > git rev-parse --show-toplevel [8ms]
+2024-12-20 13:54:45.381 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:54:46.893 [info] > git rev-parse --show-toplevel [4ms]
+2024-12-20 13:54:46.893 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:54:48.351 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-20 13:54:48.351 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:54:49.255 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-20 13:54:49.255 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:55:35.488 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-20 13:55:35.488 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 13:55:48.345 [info] > git rev-parse --show-toplevel [8ms]
+2024-12-20 13:55:48.346 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-20 14:01:07.251 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-20 14:01:07.268 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-12-20 14:01:07.284 [info] Open repository: /home/wonofakind02
+2024-12-20 14:01:07.323 [info] No remotes found in the git config file.
+2024-12-20 14:01:07.325 [info] > git config --get commit.template [22ms]
+2024-12-20 14:01:07.326 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-12-20 14:01:07.574 [info] > git status -z -uall [232ms] (cancelled)
+2024-12-20 14:01:07.990 [info] > git show --textconv :mywebsite/templates/article/subject.html [18ms]
+2024-12-20 14:01:07.993 [info] > git ls-files --stage -- /home/wonofakind02/mywebsite/templates/article/subject.html [5ms]
+2024-12-20 14:01:08.035 [info] > git check-ignore -v -z --stdin [2ms]
+2024-12-20 14:04:11.445 [info] > git ls-files --stage -- /home/wonofakind02/mywebsite/templates/article/subject.html [2ms]
+2024-12-20 14:04:11.648 [info] > git show --textconv :mywebsite/templates/article/subject.html [2ms]
+2024-12-20 14:04:49.005 [info] > git ls-files --stage -- /home/wonofakind02/mywebsite/templates/article/subject.html [2ms]
+2024-12-20 14:04:49.208 [info] > git show --textconv :mywebsite/templates/article/subject.html [2ms]
+2024-12-20 14:04:50.273 [info] > git check-ignore -v -z --stdin [2ms]
+2024-12-20 14:05:29.450 [info] > git ls-files --stage -- /home/wonofakind02/mywebsite/templates/article/subject.html [2ms]
+2024-12-20 14:05:29.658 [info] > git show --textconv :mywebsite/templates/article/subject.html [2ms]
+2024-12-20 14:06:19.027 [info] > git ls-files --stage -- /home/wonofakind02/mywebsite/templates/article/subject.html [2ms]
+2024-12-20 14:06:19.230 [info] > git show --textconv :mywebsite/templates/article/subject.html [2ms]
+2024-12-20 14:06:33.062 [info] > git ls-files --stage -- /home/wonofakind02/mywebsite/templates/article/subject.html [2ms]
+2024-12-20 14:06:33.264 [info] > git show --textconv :mywebsite/templates/article/subject.html [1ms]
+2024-12-20 14:08:16.293 [info] > git check-ignore -v -z --stdin [1ms]

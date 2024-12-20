@@ -1,0 +1,116 @@
+2024-12-02 09:39:17.797 [info] 
+
+
+
+
+2024-12-02 09:39:17.833 [info] Extension host agent started.
+2024-12-02 09:39:18.788 [info] [127.0.0.1][cfabcde9][ManagementConnection] New connection established.
+2024-12-02 09:39:19.326 [info] [127.0.0.1][d7902ab9][ExtensionHostConnection] New connection established.
+2024-12-02 09:39:19.530 [info] [127.0.0.1][d7902ab9][ExtensionHostConnection] <1189> Launched Extension Host Process.
+2024-12-02 09:44:17.836 [info] New EH opened, aborting shutdown
+2024-12-02 11:28:56.552 [info] [127.0.0.1][cfabcde9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-02 11:28:56.554 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-02 11:28:56.558 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-02 11:28:56.558 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-02 11:28:56.558 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-02 11:28:56.558 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-02 11:28:56.559 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-02 11:28:56.559 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-02 11:28:56.559 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+2024-12-02 11:28:56.559 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+2024-12-02 11:28:56.560 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+2024-12-02 11:28:56.560 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+2024-12-02 11:29:01.618 [info] [127.0.0.1][d7902ab9][ExtensionHostConnection] <1189> Extension Host Process exited with code: 0, signal: null.
+2024-12-02 11:29:01.618 [info] Last EH closed, waiting before shutting down
+2024-12-02 11:29:05.320 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-12-02 11:29:05.320 [info] Cancelling previous shutdown timeout
+2024-12-02 11:29:06.123 [info] [127.0.0.1][f03e4ca7][ManagementConnection] New connection established.
+2024-12-02 11:29:06.528 [info] [127.0.0.1][5c96dcaf][ExtensionHostConnection] New connection established.
+2024-12-02 11:29:06.540 [info] [127.0.0.1][5c96dcaf][ExtensionHostConnection] <5378> Launched Extension Host Process.
+2024-12-02 11:29:11.250 [error] CodeExpectedError: Could not find pty on pty host
+    at $.P (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:27:32310)
+    at $.updateIcon (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:27:27540)
+    at T.<computed> (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:27:22750)
+    at Object.call (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:17:4907)
+    at u.s (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at u.q (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at C.w (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at C.fire (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.G (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:8:27561)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-12-02 11:29:11.294 [error] CodeExpectedError: Could not find pty on pty host
+    at $.P (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:27:32310)
+    at $.updateTitle (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:27:27490)
+    at T.<computed> (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:27:22750)
+    at Object.call (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:17:4907)
+    at u.s (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at u.q (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at C.w (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at C.fire (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.G (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/platform/terminal/node/ptyHostMain.js:8:27561)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-12-02 11:34:05.320 [info] New EH opened, aborting shutdown
+2024-12-02 12:38:30.859 [info] [127.0.0.1][f03e4ca7][ManagementConnection] The client has reconnected.
+2024-12-02 12:38:31.266 [info] [127.0.0.1][5c96dcaf][ExtensionHostConnection] The client has reconnected.
+2024-12-02 12:38:33.331 [info] [127.0.0.1][5c96dcaf][ExtensionHostConnection] The client has reconnected.
+2024-12-02 12:38:37.222 [info] [127.0.0.1][f03e4ca7][ManagementConnection] The client has reconnected.

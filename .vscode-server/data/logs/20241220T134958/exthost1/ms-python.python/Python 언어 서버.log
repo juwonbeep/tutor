@@ -1,0 +1,18 @@
+2024-12-20 13:53:26.401 [info] (Client) Pylance async client (2024.3.2) started with python extension (2024.2.1)
+2024-12-20 13:53:27.347 [info] [Info  - 1:53:27 PM] (1327) Pylance language server 2024.3.2 (pyright version 1.1.351, commit 87171fbf) starting
+2024-12-20 13:53:27.348 [info] [Info  - 1:53:27 PM] (1327) Server root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-12-20 13:53:27.348 [info] [Info  - 1:53:27 PM] (1327) Starting service instance "wonofakind02"
+2024-12-20 13:53:27.463 [info] [Info  - 1:53:27 PM] (1327) Setting pythonPath for service "wonofakind02": "/bin/python3"
+2024-12-20 13:53:27.464 [info] [Info  - 1:53:27 PM] (1327) Setting environmentName for service "wonofakind02": "3.8.10 (글로벌)"
+2024-12-20 13:53:27.525 [info] [Info  - 1:53:27 PM] (1327) Assuming Python version 3.8
+2024-12-20 13:53:27.725 [info] [Info  - 1:53:27 PM] (1327) Found 34 source files
+2024-12-20 13:53:29.085 [info] [Info  - 1:53:29 PM] (1327) Background analysis(1) root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-12-20 13:53:29.101 [info] [Info  - 1:53:29 PM] (1327) Background analysis(1) started
+2024-12-20 13:53:30.529 [info] [Info  - 1:53:30 PM] (1327) Indexer background runner(2) root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist (index)
+2024-12-20 13:53:30.530 [info] [Info  - 1:53:30 PM] (1327) Indexing(2) started
+2024-12-20 13:53:33.437 [info] [Info  - 1:53:33 PM] (1327) [BG(1)] Long operation: checking: file:///home/wonofakind02/mywebsite/crawl/apps.py (2851ms)
+2024-12-20 13:53:33.437 [info] [Info  - 1:53:33 PM] (1327) [BG(1)] Long operation: analyzing: file:///home/wonofakind02/mywebsite/crawl/apps.py (4155ms)
+2024-12-20 13:53:33.530 [info] [Info  - 1:53:33 PM] (1327) [IDX(2)] Long operation: scan packages file:///home/wonofakind02 (2987ms)
+2024-12-20 13:53:33.530 [info] [Info  - 1:53:33 PM] (1327) scanned(2) 105 files over 1 exec env
+2024-12-20 13:53:35.220 [info] [Info  - 1:53:35 PM] (1327) indexed(2) 59 files over 1 exec env
+2024-12-20 13:53:35.358 [info] [Info  - 1:53:35 PM] (1327) Indexing finished(2).

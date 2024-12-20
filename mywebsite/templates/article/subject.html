@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block contents %}
+
+  <div class="container">
+    <div class="row mt-5">
+      <div class="col-12 text-center">
+        <h1>
+          주제별 논문 결과 확장
+        </h1>
+      </div>
+    </div>
+
+    {% if user_id %}
+      <div class="row mt-5">
+        <div class="col-12">
+          <h4 class="text-info">
+            {{ user_id }}님의 관심분야인 {{ userinfo.subject1 }}의 최신 논문입니다.
+          </h4>
+        </div>
+      </div>
+    {% endif %}
+  </div>
+
+{% endblock %}
+
+

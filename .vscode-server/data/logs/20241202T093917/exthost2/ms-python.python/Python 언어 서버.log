@@ -1,0 +1,17 @@
+2024-12-02 11:29:13.675 [info] (Client) Pylance async client (2024.3.2) started with python extension (2024.2.1)
+2024-12-02 11:29:14.440 [info] [Info  - 11:29:14 AM] (5481) Pylance language server 2024.3.2 (pyright version 1.1.351, commit 87171fbf) starting
+2024-12-02 11:29:14.440 [info] [Info  - 11:29:14 AM] (5481) Server root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-12-02 11:29:14.467 [info] [Info  - 11:29:14 AM] (5481) Starting service instance "wonofakind02"
+2024-12-02 11:29:14.582 [info] [Info  - 11:29:14 AM] (5481) Setting pythonPath for service "wonofakind02": "/bin/python3"
+2024-12-02 11:29:14.582 [info] [Info  - 11:29:14 AM] (5481) Setting environmentName for service "wonofakind02": "3.8.10 (글로벌)"
+2024-12-02 11:29:14.644 [info] [Info  - 11:29:14 AM] (5481) Assuming Python version 3.8
+2024-12-02 11:29:14.815 [info] [Info  - 11:29:14 AM] (5481) Found 34 source files
+2024-12-02 11:29:16.770 [info] [Info  - 11:29:16 AM] (5481) Background analysis(1) root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-12-02 11:29:16.786 [info] [Info  - 11:29:16 AM] (5481) Background analysis(1) started
+2024-12-02 11:29:16.906 [info] [Info  - 11:29:16 AM] (5481) Indexer background runner(2) root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist (index)
+2024-12-02 11:29:16.907 [info] [Info  - 11:29:16 AM] (5481) Indexing(2) started
+2024-12-02 11:29:19.967 [info] [Info  - 11:29:19 AM] (5481) [IDX(2)] Long operation: scan packages file:///home/wonofakind02 (3047ms)
+2024-12-02 11:29:19.968 [info] [Info  - 11:29:19 AM] (5481) scanned(2) 105 files over 1 exec env
+2024-12-02 11:29:20.394 [info] [Info  - 11:29:20 AM] (5481) [BG(1)] Long operation: analyzing: file:///home/wonofakind02/mywebsite/crawl/scheduler/artcrawl.py (3250ms)
+2024-12-02 11:29:21.988 [info] [Info  - 11:29:21 AM] (5481) indexed(2) 59 files over 1 exec env
+2024-12-02 11:29:22.174 [info] [Info  - 11:29:22 AM] (5481) Indexing finished(2).

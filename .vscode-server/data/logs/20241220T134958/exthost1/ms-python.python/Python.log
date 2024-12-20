@@ -1,0 +1,8 @@
+2024-12-20 13:53:23.846 [info] 실험 'pythonRecommendTensorboardExt'이(가) 활성 상태입니다.
+2024-12-20 13:53:23.846 [info] 실험 'pythonTerminalEnvVarActivation'이(가) 활성 상태입니다.
+2024-12-20 13:53:23.846 [info] 실험 'pythonTestAdapter'이(가) 활성 상태입니다.
+2024-12-20 13:53:23.910 [info] Default formatter is set to null for workspace /home/wonofakind02
+2024-12-20 13:53:24.471 [info] Test server listening.
+2024-12-20 13:53:24.472 [info] Python 인터프리터 경로: /bin/python3
+2024-12-20 13:53:27.393 [info] Pylance 언어 서버를 시작하는 중입니다.
+2024-12-20 14:00:22.376 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02

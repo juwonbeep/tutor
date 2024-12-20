@@ -1,0 +1,91 @@
+2024-12-20 01:09:55.418 [info] 
+
+
+
+
+2024-12-20 01:09:55.463 [info] Extension host agent started.
+2024-12-20 01:09:55.924 [info] [127.0.0.1][f0bbe17e][ManagementConnection] New connection established.
+2024-12-20 01:09:56.313 [info] [127.0.0.1][49228e5c][ExtensionHostConnection] New connection established.
+2024-12-20 01:09:56.770 [info] [127.0.0.1][49228e5c][ExtensionHostConnection] <1204> Launched Extension Host Process.
+2024-12-20 01:14:55.465 [info] New EH opened, aborting shutdown
+2024-12-20 01:31:27.595 [info] [127.0.0.1][f0bbe17e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-20 01:31:27.597 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-20 01:31:27.602 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+2024-12-20 01:31:27.602 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+2024-12-20 01:31:27.603 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+2024-12-20 01:31:27.603 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+2024-12-20 01:31:27.603 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+2024-12-20 01:31:32.621 [info] [127.0.0.1][49228e5c][ExtensionHostConnection] <1204> Extension Host Process exited with code: 0, signal: null.
+2024-12-20 01:31:32.621 [info] Last EH closed, waiting before shutting down
+2024-12-20 01:34:58.725 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-12-20 01:34:58.726 [info] Cancelling previous shutdown timeout
+2024-12-20 01:34:59.617 [info] [127.0.0.1][e4cf8df0][ManagementConnection] New connection established.
+2024-12-20 01:34:59.987 [info] [127.0.0.1][db91c439][ExtensionHostConnection] New connection established.
+2024-12-20 01:34:59.995 [info] [127.0.0.1][db91c439][ExtensionHostConnection] <2052> Launched Extension Host Process.
+2024-12-20 01:36:10.551 [info] [127.0.0.1][e4cf8df0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-20 01:36:10.555 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-20 01:36:10.560 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-20 01:36:10.561 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-20 01:36:10.561 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-20 01:36:10.561 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-20 01:36:10.561 [error] Error: Throttler is disposed
+    at c.queue (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-12-20 01:36:15.575 [info] [127.0.0.1][db91c439][ExtensionHostConnection] <2052> Extension Host Process exited with code: 0, signal: null.
+2024-12-20 01:36:15.575 [info] Cancelling previous shutdown timeout
+2024-12-20 01:36:15.575 [info] Last EH closed, waiting before shutting down

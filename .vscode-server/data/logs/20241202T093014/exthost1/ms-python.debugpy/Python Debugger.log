@@ -1,0 +1,15 @@
+2024-12-02 09:30:21.249 [info] Name: Python Debugger
+2024-12-02 09:30:21.249 [info] Module: debugpy
+2024-12-02 09:30:21.250 [error] sendDebugpySuccessActivationTelemetry() failed. [Error: Extension 'ms-python.debugpy' CANNOT use API proposal: portsAttributes.
+Its package.json#enabledApiProposals-property declares:  but NOT portsAttributes.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.debugpy
+	at k (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/workbench/api/node/extensionHostProcess.js:106:70089)
+	at Object.registerPortAttributesProvider (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/workbench/api/node/extensionHostProcess.js:123:38986)
+	at t.registerDebugger (/home/wonofakind02/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64/dist/extension.js:2:874344)
+	at e.activate (/home/wonofakind02/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64/dist/extension.js:2:1121583)
+	at Y.eb (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/workbench/api/node/extensionHostProcess.js:119:13032)
+	at Y.db (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/workbench/api/node/extensionHostProcess.js:119:12750)
+	at /home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/workbench/api/node/extensionHostProcess.js:119:10857
+	at async E.n (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/workbench/api/node/extensionHostProcess.js:108:6206)
+	at async E.m (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/workbench/api/node/extensionHostProcess.js:108:6169)
+	at async E.l (/home/wonofakind02/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/workbench/api/node/extensionHostProcess.js:108:5626)]

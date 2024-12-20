@@ -1,0 +1,18 @@
+2024-11-29 15:05:32.502 [info] (Client) Pylance async client (2024.3.2) started with python extension (2024.2.1)
+2024-11-29 15:05:33.443 [info] [Info  - 3:05:33 PM] (1317) Pylance language server 2024.3.2 (pyright version 1.1.351, commit 87171fbf) starting
+2024-11-29 15:05:33.444 [info] [Info  - 3:05:33 PM] (1317) Server root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-11-29 15:05:33.445 [info] [Info  - 3:05:33 PM] (1317) Starting service instance "wonofakind02"
+2024-11-29 15:05:33.536 [info] [Info  - 3:05:33 PM] (1317) Setting pythonPath for service "wonofakind02": "/bin/python3"
+2024-11-29 15:05:33.537 [info] [Info  - 3:05:33 PM] (1317) Setting environmentName for service "wonofakind02": "3.8.10 (글로벌)"
+2024-11-29 15:05:33.719 [info] [Info  - 3:05:33 PM] (1317) Assuming Python version 3.8
+2024-11-29 15:05:33.968 [info] [Info  - 3:05:33 PM] (1317) Found 25 source files
+2024-11-29 15:05:35.312 [info] [Info  - 3:05:35 PM] (1317) Background analysis(1) root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-11-29 15:05:35.335 [info] [Info  - 3:05:35 PM] (1317) Background analysis(1) started
+2024-11-29 15:05:36.252 [info] [Info  - 3:05:36 PM] (1317) Indexer background runner(2) root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist (index)
+2024-11-29 15:05:36.252 [info] [Info  - 3:05:36 PM] (1317) Indexing(2) started
+2024-11-29 15:05:38.679 [info] [Info  - 3:05:38 PM] (1317) [BG(1)] Long operation: analyzing: file:///home/wonofakind02/mywebsite/article/models.py (3047ms)
+2024-11-29 15:05:38.874 [info] [Info  - 3:05:38 PM] (1317) [IDX(2)] Long operation: scan packages file:///home/wonofakind02 (2631ms)
+2024-11-29 15:05:38.874 [info] [Info  - 3:05:38 PM] (1317) scanned(2) 103 files over 1 exec env
+2024-11-29 15:05:40.824 [info] [Info  - 3:05:40 PM] (1317) indexed(2) 58 files over 1 exec env
+2024-11-29 15:05:41.007 [info] [Info  - 3:05:41 PM] (1317) Indexing finished(2).
+2024-11-30 09:47:58.031 [info] [Error - 9:47:58 AM] Server process exited with code 0.

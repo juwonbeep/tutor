@@ -1,0 +1,57 @@
+2024-12-20 03:36:04.514 [info] 실험 'pythonRecommendTensorboardExt'이(가) 활성 상태입니다.
+2024-12-20 03:36:04.514 [info] 실험 'pythonTerminalEnvVarActivation'이(가) 활성 상태입니다.
+2024-12-20 03:36:04.514 [info] 실험 'pythonTestAdapter'이(가) 활성 상태입니다.
+2024-12-20 03:36:04.514 [info] Default formatter is set to null for workspace /home/wonofakind02
+2024-12-20 03:36:04.514 [info] Test server listening.
+2024-12-20 03:36:04.515 [info] Python 인터프리터 경로: /bin/python3
+2024-12-20 03:36:07.285 [info] Pylance 언어 서버를 시작하는 중입니다.
+2024-12-20 03:54:03.556 [info] Send text to terminal: ㅏ
+2024-12-20 03:54:03.955 [info] Send text to terminal: ㅣ
+2024-12-20 03:54:03.957 [info] Send text to terminal: 
+2024-12-20 03:54:04.083 [info] Send text to terminal: 
+2024-12-20 03:54:04.620 [info] Send text to terminal: ㄴ
+2024-12-20 03:54:04.620 [info] Send text to terminal: 
+2024-12-20 03:54:04.747 [info] Send text to terminal: 
+2024-12-20 03:54:04.899 [info] Send text to terminal: 
+2024-12-20 03:54:05.130 [info] Send text to terminal: l
+2024-12-20 03:54:05.249 [info] Send text to terminal: s
+2024-12-20 03:54:06.420 [info] Send text to terminal: 
+2024-12-20 03:54:08.262 [info] Send text to terminal: l
+2024-12-20 03:54:08.367 [info] Send text to terminal: s
+2024-12-20 03:54:08.500 [info] Send text to terminal: 
+2024-12-20 03:54:10.068 [info] Send text to terminal: c
+2024-12-20 03:54:10.272 [info] Send text to terminal: d
+2024-12-20 03:54:10.419 [info] Send text to terminal:  
+2024-12-20 03:54:10.618 [info] Send text to terminal: m
+2024-12-20 03:54:10.861 [info] Send text to terminal: y
+2024-12-20 03:54:11.083 [info] Send text to terminal: 	
+2024-12-20 03:54:11.653 [info] Send text to terminal: 
+2024-12-20 03:54:12.623 [info] Send text to terminal: l
+2024-12-20 03:54:12.756 [info] Send text to terminal: s
+2024-12-20 03:54:12.902 [info] Send text to terminal: 
+2024-12-20 03:54:32.050 [info] Send text to terminal: ㅇ
+2024-12-20 03:54:32.051 [info] Send text to terminal: 
+2024-12-20 03:54:32.242 [info] Send text to terminal: 
+2024-12-20 03:54:32.668 [info] Send text to terminal: d
+2024-12-20 03:54:32.838 [info] Send text to terminal: 
+2024-12-20 03:54:32.968 [info] Send text to terminal: d
+2024-12-20 03:54:33.093 [info] Send text to terminal: 
+2024-12-20 03:54:33.230 [info] Send text to terminal: d
+2024-12-20 03:54:33.348 [info] Send text to terminal: 
+2024-12-20 03:54:33.478 [info] Send text to terminal: d
+2024-12-20 03:54:33.711 [info] Send text to terminal: d
+2024-12-20 03:54:33.995 [info] Send text to terminal: d
+2024-12-20 03:54:34.248 [info] Send text to terminal: d
+2024-12-20 03:54:35.274 [info] Send text to terminal: 
+2024-12-20 03:54:35.488 [info] Send text to terminal: 
+2024-12-20 03:54:35.692 [info] Send text to terminal: 
+2024-12-20 03:54:35.891 [info] Send text to terminal: 
+2024-12-20 03:54:36.097 [info] Send text to terminal: 
+2024-12-20 03:57:06.308 [info] Send text to terminal: python3 manage.py runserver 0.0.0.0:8000
+2024-12-20 03:57:08.013 [info] Send text to terminal: 
+2024-12-20 03:57:23.671 [info] Send text to terminal: [A
+2024-12-20 03:57:24.807 [info] Send text to terminal: 
+2024-12-20 03:57:25.587 [info] Send text to terminal: 1
+2024-12-20 03:57:26.558 [info] Send text to terminal: 
+2024-12-20 04:14:31.528 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/config/settings.py
+2024-12-20 04:35:02.743 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/user/views.py

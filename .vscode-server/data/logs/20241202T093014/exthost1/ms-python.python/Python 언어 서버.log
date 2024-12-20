@@ -1,0 +1,17 @@
+2024-12-02 09:30:23.991 [info] (Client) Pylance async client (2024.3.2) started with python extension (2024.2.1)
+2024-12-02 09:30:24.959 [info] [Info  - 9:30:24 AM] (34233) Pylance language server 2024.3.2 (pyright version 1.1.351, commit 87171fbf) starting
+2024-12-02 09:30:24.961 [info] [Info  - 9:30:24 AM] (34233) Server root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-12-02 09:30:24.962 [info] [Info  - 9:30:24 AM] (34233) Starting service instance "wonofakind02"
+2024-12-02 09:30:25.052 [info] [Info  - 9:30:25 AM] (34233) Setting pythonPath for service "wonofakind02": "/bin/python3"
+2024-12-02 09:30:25.053 [info] [Info  - 9:30:25 AM] (34233) Setting environmentName for service "wonofakind02": "3.8.10 (글로벌)"
+2024-12-02 09:30:25.134 [info] [Info  - 9:30:25 AM] (34233) Assuming Python version 3.8
+2024-12-02 09:30:25.408 [info] [Info  - 9:30:25 AM] (34233) Found 25 source files
+2024-12-02 09:30:27.163 [info] [Info  - 9:30:27 AM] (34233) Background analysis(1) root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-12-02 09:30:27.175 [info] [Info  - 9:30:27 AM] (34233) Background analysis(1) started
+2024-12-02 09:30:28.098 [info] [Info  - 9:30:28 AM] (34233) Indexer background runner(2) root directory: file:///home/wonofakind02/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.2/dist (index)
+2024-12-02 09:30:28.098 [info] [Info  - 9:30:28 AM] (34233) Indexing(2) started
+2024-12-02 09:30:30.283 [info] [Info  - 9:30:30 AM] (34233) [BG(1)] Long operation: analyzing: file:///home/wonofakind02/mywebsite/article/models.py (2792ms)
+2024-12-02 09:30:30.959 [info] [Info  - 9:30:30 AM] (34233) [IDX(2)] Long operation: scan packages file:///home/wonofakind02 (2816ms)
+2024-12-02 09:30:30.960 [info] [Info  - 9:30:30 AM] (34233) scanned(2) 103 files over 1 exec env
+2024-12-02 09:30:32.201 [info] [Info  - 9:30:32 AM] (34233) indexed(2) 58 files over 1 exec env
+2024-12-02 09:30:32.427 [info] [Info  - 9:30:32 AM] (34233) Indexing finished(2).

@@ -1,0 +1,42 @@
+2024-12-02 11:29:11.942 [info] 실험 'pythonRecommendTensorboardExt'이(가) 활성 상태입니다.
+2024-12-02 11:29:11.942 [info] 실험 'pythonTerminalEnvVarActivation'이(가) 활성 상태입니다.
+2024-12-02 11:29:11.942 [info] 실험 'pythonTestAdapter'이(가) 활성 상태입니다.
+2024-12-02 11:29:11.942 [info] Default formatter is set to null for workspace /home/wonofakind02
+2024-12-02 11:29:11.942 [info] Test server listening.
+2024-12-02 11:29:11.944 [info] Python 인터프리터 경로: /bin/python3
+2024-12-02 11:29:14.516 [info] Pylance 언어 서버를 시작하는 중입니다.
+2024-12-02 11:33:06.933 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/crawl/scheduler/artcrawl.py
+2024-12-02 11:34:04.086 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/crawl/scheduler/artcrawl.py
+2024-12-02 11:34:22.505 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 11:35:46.468 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 11:36:05.192 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 11:37:25.662 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/crawl/scheduler/artcrawl.py
+2024-12-02 11:50:24.985 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 11:51:35.171 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 11:53:11.373 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 11:53:51.289 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 11:54:47.254 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 11:58:11.198 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 11:59:53.856 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:00:51.867 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:01:44.982 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:06:47.481 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:07:45.532 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:10:15.819 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:11:09.841 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:16:34.733 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:17:37.010 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:18:47.882 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:19:29.735 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:20:10.406 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:20:24.774 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:22:28.826 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:24:47.095 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:27:28.608 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:29:10.805 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:30:30.379 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:31:46.126 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:34:08.555 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:34:23.100 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:36:53.036 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py
+2024-12-02 12:38:31.961 [info] Discover tests for workspace name: wonofakind02 - uri: /home/wonofakind02/mywebsite/article/views.py

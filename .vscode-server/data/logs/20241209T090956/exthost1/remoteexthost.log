@@ -1,0 +1,21 @@
+2024-12-09 09:09:59.488 [info] Extension host with pid 1196 started
+2024-12-09 09:09:59.510 [error] Error: EEXIST: file already exists, open '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock'
+2024-12-09 09:09:59.529 [info] Lock '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-12-09 09:09:59.558 [info] Lock '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock': The pid 5378 appears to be gone.
+2024-12-09 09:09:59.558 [info] Lock '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock': Deleting a stale lock.
+2024-12-09 09:09:59.585 [info] Lock '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock': Lock acquired.
+2024-12-09 09:09:59.785 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-12-09 09:09:59.787 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-09 09:09:59.788 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-12-09 09:09:59.788 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-12-09 09:10:01.576 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-09 09:10:01.993 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-12-09 09:10:03.008 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-09 09:10:03.009 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-09 09:10:03.818 [info] Eager extensions activated
+2024-12-09 09:10:03.818 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-09 09:10:03.820 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-09 09:10:03.820 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-12-09 09:33:10.854 [info] Extension host terminating: received terminate message from renderer
+2024-12-09 09:33:10.855 [info] Lock '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-12-09 09:33:15.916 [info] Extension host with pid 1196 exiting with code 0

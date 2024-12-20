@@ -1,0 +1,261 @@
+2024-12-02 09:39:21.645 [info] Extension host with pid 1189 started
+2024-12-02 09:39:21.665 [error] Error: EEXIST: file already exists, open '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock'
+2024-12-02 09:39:21.676 [info] Lock '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-12-02 09:39:21.684 [info] Lock '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock': The pid 34115 appears to be gone.
+2024-12-02 09:39:21.684 [info] Lock '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock': Deleting a stale lock.
+2024-12-02 09:39:21.700 [info] Lock '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock': Lock acquired.
+2024-12-02 09:39:21.949 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-02 09:39:21.951 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-12-02 09:39:21.952 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-12-02 09:39:21.952 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-12-02 09:39:22.955 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-02 09:39:24.278 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-02 09:39:24.279 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-02 09:39:24.691 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-12-02 09:39:26.277 [info] Eager extensions activated
+2024-12-02 09:39:26.278 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-02 09:39:26.279 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-02 09:39:26.279 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-12-02 09:41:15.732 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-12-02 09:42:25.509 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:25.509 [error] undefined
+2024-12-02 09:42:26.280 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:26.280 [error] undefined
+2024-12-02 09:42:26.652 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:26.652 [error] undefined
+2024-12-02 09:42:28.517 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:28.517 [error] undefined
+2024-12-02 09:42:30.454 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:30.454 [error] undefined
+2024-12-02 09:42:32.867 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:32.867 [error] undefined
+2024-12-02 09:42:34.119 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:34.119 [error] undefined
+2024-12-02 09:42:39.105 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:39.105 [error] undefined
+2024-12-02 09:42:47.688 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:47.688 [error] undefined
+2024-12-02 09:42:48.272 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:48.273 [error] undefined
+2024-12-02 09:42:50.630 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:50.631 [error] undefined
+2024-12-02 09:42:51.014 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:51.014 [error] undefined
+2024-12-02 09:42:52.707 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:52.707 [error] undefined
+2024-12-02 09:42:56.142 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:56.143 [error] undefined
+2024-12-02 09:42:57.255 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:42:57.255 [error] undefined
+2024-12-02 09:43:00.632 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:00.632 [error] undefined
+2024-12-02 09:43:01.052 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:01.053 [error] undefined
+2024-12-02 09:43:01.513 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:01.514 [error] undefined
+2024-12-02 09:43:01.672 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:01.672 [error] undefined
+2024-12-02 09:43:02.303 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:02.303 [error] undefined
+2024-12-02 09:43:02.614 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:02.614 [error] undefined
+2024-12-02 09:43:13.069 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:13.069 [error] undefined
+2024-12-02 09:43:14.091 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:14.091 [error] undefined
+2024-12-02 09:43:14.759 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:14.759 [error] undefined
+2024-12-02 09:43:23.731 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:23.731 [error] undefined
+2024-12-02 09:43:36.666 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:36.666 [error] undefined
+2024-12-02 09:43:36.960 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:36.960 [error] undefined
+2024-12-02 09:43:37.237 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:37.237 [error] undefined
+2024-12-02 09:43:40.810 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:40.810 [error] undefined
+2024-12-02 09:43:41.327 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:41.327 [error] undefined
+2024-12-02 09:43:41.603 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:41.603 [error] undefined
+2024-12-02 09:43:49.502 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:49.502 [error] undefined
+2024-12-02 09:43:49.848 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:49.848 [error] undefined
+2024-12-02 09:43:50.996 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:50.996 [error] undefined
+2024-12-02 09:43:51.722 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:51.722 [error] undefined
+2024-12-02 09:43:52.746 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:43:52.746 [error] undefined
+2024-12-02 09:45:36.662 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:45:36.663 [error] undefined
+2024-12-02 09:45:38.888 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:45:38.888 [error] undefined
+2024-12-02 09:45:39.393 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:45:39.393 [error] undefined
+2024-12-02 09:45:40.347 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:45:40.347 [error] undefined
+2024-12-02 09:45:40.866 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:45:40.866 [error] undefined
+2024-12-02 09:45:42.580 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:45:42.580 [error] undefined
+2024-12-02 09:45:43.339 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:45:43.339 [error] undefined
+2024-12-02 09:45:43.820 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:45:43.820 [error] undefined
+2024-12-02 09:45:44.412 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:45:44.412 [error] undefined
+2024-12-02 09:45:44.788 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:45:44.788 [error] undefined
+2024-12-02 09:45:45.623 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:45:45.624 [error] undefined
+2024-12-02 09:45:45.896 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:45:45.896 [error] undefined
+2024-12-02 09:45:46.640 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:45:46.640 [error] undefined
+2024-12-02 09:48:19.495 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:48:19.495 [error] undefined
+2024-12-02 09:48:19.504 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:48:19.504 [error] undefined
+2024-12-02 09:56:14.782 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:56:14.782 [error] undefined
+2024-12-02 09:56:19.113 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 09:56:19.113 [error] undefined
+2024-12-02 10:02:24.343 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-12-02 10:12:12.534 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:12.534 [error] undefined
+2024-12-02 10:12:13.468 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:13.468 [error] undefined
+2024-12-02 10:12:14.169 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:14.169 [error] undefined
+2024-12-02 10:12:22.379 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:22.379 [error] undefined
+2024-12-02 10:12:25.580 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:25.581 [error] undefined
+2024-12-02 10:12:25.910 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:25.910 [error] undefined
+2024-12-02 10:12:28.569 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:28.570 [error] undefined
+2024-12-02 10:12:31.879 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:31.879 [error] undefined
+2024-12-02 10:12:32.751 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:32.751 [error] undefined
+2024-12-02 10:12:33.249 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:33.249 [error] undefined
+2024-12-02 10:12:34.438 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:34.438 [error] undefined
+2024-12-02 10:12:46.580 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:46.580 [error] undefined
+2024-12-02 10:12:47.341 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:47.341 [error] undefined
+2024-12-02 10:12:47.752 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:47.752 [error] undefined
+2024-12-02 10:12:49.537 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:12:49.537 [error] undefined
+2024-12-02 10:13:09.012 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:13:09.012 [error] undefined
+2024-12-02 10:13:10.783 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:13:10.783 [error] undefined
+2024-12-02 10:13:12.272 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:13:12.272 [error] undefined
+2024-12-02 10:13:15.405 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:13:15.405 [error] undefined
+2024-12-02 10:13:56.872 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:13:56.872 [error] undefined
+2024-12-02 10:14:07.832 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:14:07.832 [error] undefined
+2024-12-02 10:14:14.824 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:14:14.824 [error] undefined
+2024-12-02 10:14:16.867 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:14:16.867 [error] undefined
+2024-12-02 10:14:17.838 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:14:17.838 [error] undefined
+2024-12-02 10:14:18.540 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:14:18.540 [error] undefined
+2024-12-02 10:14:27.470 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:14:27.470 [error] undefined
+2024-12-02 10:14:29.352 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:14:29.352 [error] undefined
+2024-12-02 10:14:30.772 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:14:30.772 [error] undefined
+2024-12-02 10:14:46.032 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:14:46.032 [error] undefined
+2024-12-02 10:14:47.563 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:14:47.563 [error] undefined
+2024-12-02 10:14:48.578 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:14:48.578 [error] undefined
+2024-12-02 10:15:01.414 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:01.414 [error] undefined
+2024-12-02 10:15:02.329 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:02.329 [error] undefined
+2024-12-02 10:15:03.573 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:03.573 [error] undefined
+2024-12-02 10:15:27.071 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:27.071 [error] undefined
+2024-12-02 10:15:28.152 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:28.152 [error] undefined
+2024-12-02 10:15:28.388 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:28.388 [error] undefined
+2024-12-02 10:15:29.048 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:29.048 [error] undefined
+2024-12-02 10:15:29.538 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:29.538 [error] undefined
+2024-12-02 10:15:30.818 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:30.818 [error] undefined
+2024-12-02 10:15:31.071 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:31.072 [error] undefined
+2024-12-02 10:15:32.073 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:32.073 [error] undefined
+2024-12-02 10:15:32.487 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:32.487 [error] undefined
+2024-12-02 10:15:40.838 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:40.839 [error] undefined
+2024-12-02 10:15:40.906 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:15:40.906 [error] undefined
+2024-12-02 10:16:02.203 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:16:02.203 [error] undefined
+2024-12-02 10:16:03.736 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:16:03.736 [error] undefined
+2024-12-02 10:16:05.472 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:16:05.472 [error] undefined
+2024-12-02 10:16:25.143 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:16:25.143 [error] undefined
+2024-12-02 10:16:36.313 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:16:36.313 [error] undefined
+2024-12-02 10:16:49.571 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:16:49.571 [error] undefined
+2024-12-02 10:17:10.343 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:10.343 [error] undefined
+2024-12-02 10:17:19.394 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:19.394 [error] undefined
+2024-12-02 10:17:21.722 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:21.722 [error] undefined
+2024-12-02 10:17:29.707 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:29.708 [error] undefined
+2024-12-02 10:17:36.354 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:36.354 [error] undefined
+2024-12-02 10:17:41.596 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:41.596 [error] undefined
+2024-12-02 10:17:41.875 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:41.875 [error] undefined
+2024-12-02 10:17:42.128 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:42.129 [error] undefined
+2024-12-02 10:17:42.821 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:42.821 [error] undefined
+2024-12-02 10:17:43.041 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:43.041 [error] undefined
+2024-12-02 10:17:43.902 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:43.903 [error] undefined
+2024-12-02 10:17:53.164 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:53.164 [error] undefined
+2024-12-02 10:17:54.717 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:54.717 [error] undefined
+2024-12-02 10:17:56.213 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:17:56.213 [error] undefined
+2024-12-02 10:18:31.990 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-02 10:18:31.990 [error] undefined
+2024-12-02 11:28:56.560 [info] Extension host terminating: received terminate message from renderer
+2024-12-02 11:28:56.562 [info] Lock '/home/wonofakind02/.vscode-server/data/User/workspaceStorage/3b5423f5fe23cffdc4e2998f8266fb03/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-12-02 11:29:01.596 [info] Extension host with pid 1189 exiting with code 0
